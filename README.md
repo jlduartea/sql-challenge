@@ -193,10 +193,13 @@ Generate a visualization of the data, with which you will confront your boss:
 ![](Images/SQL-PandasConn.PNG)
 
 2. Create a histogram to visualize the most common salary ranges for employees.
-![](Images/Histogram-Code.PNG)
+
+![](Images/Histogram-Pandas.PNG)
 
 3. Create a bar chart of average salary by title.
 
 ![](Images/bar-code.PNG)
-![](Images/Histogram-Pandas.PNG)
+
+![](Images/bar.PNG)
+
 
