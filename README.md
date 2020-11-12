@@ -17,7 +17,7 @@ In this assignment, I have to design the tables to hold data in the CSVs, import
 ### Data Modeling
 I Inspected the CSVs and sketched out an ERD of the tables using QuickDBD.
 
-![](Images\ERD-JLDA.png)
+![](Images/ERD-JLDA.png)
 
 ### Data Engineering
 * Use the information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
@@ -189,13 +189,13 @@ ORDER BY "Frecuency" DESC;
 Generate a visualization of the data, with which you will confront your boss:
 
 1. Importing the SQL database into Pandas.
-![](Images\SQL-PandasConn.png)
+![](Images/SQL-PandasConn.png)
 
 2. Create a histogram to visualize the most common salary ranges for employees.
-![](Images\Histogram-Code.png)
+![](Images/Histogram-Code.png)
 
 3. Create a bar chart of average salary by title.
 
-![](Images\bar-code.png)
-![](Images\average_salary_by_title.png)
+![](Images/bar-code.png)
+![](Images/average_salary_by_title.png)
 
