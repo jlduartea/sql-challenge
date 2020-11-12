@@ -152,7 +152,7 @@ ON b.emp_no = a.emp_no;
 ```
 SELECT *
 FROM employees
-WHERE 	first_name = 'Hercules' AND last_name LIKE 'B%';
+WHERE first_name = 'Hercules' AND last_name LIKE 'B%';
 ```
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
@@ -189,13 +189,14 @@ ORDER BY "Frecuency" DESC;
 Generate a visualization of the data, with which you will confront your boss:
 
 1. Importing the SQL database into Pandas.
-![](Images/SQL-PandasConn.png)
+
+![](Images/SQL-PandasConn.PNG)
 
 2. Create a histogram to visualize the most common salary ranges for employees.
-![](Images/Histogram-Code.png)
+![](Images/Histogram-Code.PNG)
 
 3. Create a bar chart of average salary by title.
 
-![](Images/bar-code.png)
-![](Images/Histogram-Pandas.png)
+![](Images/bar-code.PNG)
+![](Images/Histogram-Pandas.PNG)
 
