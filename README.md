@@ -17,7 +17,7 @@ In this assignment, I have to design the tables to hold data in the CSVs, import
 ### Data Modeling
 I Inspected the CSVs and sketched out an ERD of the tables using QuickDBD.
 
-![Screenshot](Images/ERD-JLDA.png)
+![](Images/ERD-JLDA.PNG)
 
 ### Data Engineering
 * Use the information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
@@ -197,5 +197,5 @@ Generate a visualization of the data, with which you will confront your boss:
 3. Create a bar chart of average salary by title.
 
 ![](Images/bar-code.png)
-![](Images/average_salary_by_title.png)
+![](Images/Histogram-Pandas.png)
 
